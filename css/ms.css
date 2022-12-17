@@ -1,6 +1,11 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 .table4{
     width: 100%;
-    background:rgb(82, 81, 81);
+    
     height: 250px;
 }
 .img{
@@ -14,7 +19,7 @@
 .par{
     border: 2px solid red;
     border-radius: 5px;
-    background: white;
+    
     width: 80%;
     height: 208px;
     margin-top:20px;
@@ -31,13 +36,13 @@ h2{
 }
 .table5{
     width: 100%;
-    background:rgb(82, 81, 81);
+    
     height: 215px;
 }
 .par1{
     border: 2px solid red;
     border-radius: 5px;
-    background: white;
+    
     width: 77%;
     height: 170px;
     margin-top:20px;
